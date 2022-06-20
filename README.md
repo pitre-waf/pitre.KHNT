@@ -1,7 +1,7 @@
 # AI for self driving cars
 Xây dựng mô hình mạng tích chập - CNN giúp xe đi đúng làn đường 
 
-Khoa học nhận thức - Nhóm 5 - RBE3046_1 - Trường Đại học Công nghê - ĐHQGHN
+Khoa học nhận thức - Nhóm 13 - RBE3046_1 - Trường Đại học Công nghệ - ĐHQGHN
 
 Thu thập data và chạy thử nghiệm trên trình giả lập [Udacity](https://github.com/udacity/self-driving-car) 
 
